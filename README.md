@@ -190,18 +190,6 @@ g++ -std=c++17 src/main.cpp src/Song.cpp src/Playlist.cpp src/MusicPlayer.cpp -I
 11. Save Playlist  
 12. Exit
 
-## Why This Project Is Good For Placement
-
-- Combines OOP, DSA, file handling, and STL in one project
-- Shows modular architecture instead of putting everything in one file
-- Has real use of `stack` and `queue`, not just theoretical use
-- Demonstrates input validation and error handling
-- Can be extended later into a GUI or database-backed application
-
-Resume-friendly title:
-
-**Smart Playlist Manager using C++ with OOP, DSA, and persistent storage**
-
 ## Scalability Ideas
 
 Possible future improvements:
