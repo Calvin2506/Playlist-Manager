@@ -1,0 +1,5 @@
+Believer,Imagine Dragons,Rock,3.2
+Shape of You,Ed Sheeran,Pop,4.1
+Blinding Lights,The Weeknd,Synth-pop,3.5
+Levitating,Dua Lipa,Pop,3.4
+Perfect,Ed Sheeran,Romantic,4.2

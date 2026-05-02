@@ -1,0 +1,70 @@
+Build a placement-focused C++ console-based Smart Playlist Manager / Music Player project from scratch with clean modular architecture, optimized for learning + interview explanation, not just functionality.
+Core Requirements:
+Create a complete project using:
+C++
+OOP principles (Encapsulation, Abstraction, Inheritance if meaningful)
+DSA (Linked List or Vector for playlist, Stack for previous songs, Queue for upcoming songs)
+File Handling (ifstream, ofstream) for persistent playlist storage
+Menu-driven console UI
+Modular code with separate classes and functions
+Clean folder/file structure
+Mandatory Classes:
+1. Song
+title
+artist
+duration
+constructor
+displaySong()
+2. Playlist
+addSong()
+deleteSong()
+displayPlaylist()
+searchSong()
+sortSongs()
+saveToFile()
+loadFromFile()
+3. MusicPlayer
+playSong()
+pauseSong()
+nextSong()
+previousSong()
+shufflePlaylist()
+Functional Features:
+Add songs
+Delete songs
+View all songs
+Search by title
+Sort alphabetically
+Play/Pause
+Next/Previous
+Shuffle
+Save playlist to file
+Auto-load playlist on startup
+Exit safely
+Code Quality Requirements:
+Beginner-friendly but professional
+Explain each module clearly in comments
+Avoid unnecessary complexity
+Use STL where appropriate
+Proper input validation
+Error handling for missing files
+Scalable architecture for future GUI integration
+Output Requirements:
+Full project structure
+Header + implementation files if possible
+Main menu system
+Sample test data
+README-style explanation covering:
+OOP concepts used
+DSA concepts used
+Why each data structure was chosen
+Placement interview questions and answers
+Placement Optimization:
+Make this project sound impressive for recruiters:
+“Smart Playlist Manager using C++ with OOP, DSA, and persistent storage.”
+Important:
+Prioritize clarity over advanced libraries
+No GUI
+No external audio libraries
+Focus on architecture + interview readiness
+Code should be copy-paste runnable in Zed/Codex
