@@ -1,6 +1,6 @@
 # Smart Playlist Manager
 
-A placement-focused C++ console-based music player project built using OOP, DSA, file handling, and a modular architecture.
+A  C++ console-based music player project built using OOP,file handling, and a modular architecture.
 
 ## Project Summary
 
