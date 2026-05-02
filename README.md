@@ -86,28 +86,6 @@ Responsibilities:
 - Move to previous song
 - Shuffle the playlist
 
-## OOP Concepts Used
-
-### Encapsulation
-
-Each class keeps its data private and exposes only required public methods.  
-Example: `Song` hides its fields and provides getters/setters.
-
-### Abstraction
-
-Complex operations are hidden behind clear method names like:
-- `addSong()`
-- `loadFromFile()`
-- `shufflePlaylist()`
-
-The user of the class does not need to know the internal implementation.
-
-### Inheritance
-
-Inheritance is intentionally not forced into this project because there is no real parent-child relationship needed here. This is a good design decision to mention in interviews.
-
-## DSA Concepts Used
-
 ### `vector<Song>`
 
 Used in `Playlist` to store songs.
